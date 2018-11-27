@@ -1,4 +1,4 @@
-# Dopamine
+# Dopamine fork
 
 <div align="center">
   <img src="https://google.github.io/dopamine/images/dopamine_logo.png"><br><br>
